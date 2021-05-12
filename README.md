@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hybrid281
 - 👀 I’m interested in ...gaining more front end web development skills
-- 🌱 I’m currently learning ...HTML and CSS coding
+- 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...any front end projects involving the above.
 - 📫 How to reach me ...email me at cjepps@gmail.com
 
