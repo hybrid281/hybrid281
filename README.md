@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hybrid281
-- 👀 I’m interested in ...gaining more front end web development skills
-- 🌱 I’m currently learning ...JavaScript
+- 👋 Hi, I’m @hybrid281, but I go by CJ or Chris.
+- 👀 I’m interested in ...building my front end web development skills.
+- 🌱 I’m currently getting acquainted with JavaScript. 
 - 💞️ I’m looking to collaborate on ...any front end projects involving the above.
 - 📫 How to reach me ...email me at cjepps@gmail.com
 
